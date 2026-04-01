@@ -1,0 +1,21 @@
+{
+  "name": "suikaplayerapk-builder-myapp",
+  "displayName": "Suika Player",
+  "version": "1.0.0",
+  "description": "Built with APK Builder Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Bot",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
